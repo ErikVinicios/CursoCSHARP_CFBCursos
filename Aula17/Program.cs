@@ -13,6 +13,7 @@ namespace Aula17
             veiculos[2]="Avião";
 
             Console.WriteLine(veiculos[1]);
+            Console.WriteLine(veiculos[2]);
         }
     }
 }
