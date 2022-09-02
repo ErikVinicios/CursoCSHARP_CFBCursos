@@ -13,7 +13,7 @@ namespace Aula19
            }
            
            for (int i=0;i<num.Length;i++){
-            Console.WriteLine($"Valor de num na posição {i}: {num[i]}");
+            Console.WriteLine($"Valor de num na posição {i} é {num[i]}");
            }
         }
     }
